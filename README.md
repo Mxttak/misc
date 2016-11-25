@@ -1,1 +1,1 @@
-# misc
+minor code snippets
